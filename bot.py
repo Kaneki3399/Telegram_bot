@@ -23,7 +23,7 @@ async def send_welcome(message: types.Message):
     """
     This handler will be called when user sends `/start` or `/help` command
     """
-    await message.reply("Assalomu alaykum Botimizni tanlaganingiz uchunraxmat 😊\nSizga kerakli ma'lumotni kerakli Sahifasini kiriting ")
+    await message.reply("Assalomu alaykum Botimizni tanlaganingiz uchun raxmat 😊\nSizga kerakli ma'lumotni kerakli Sahifasini kiriting ")
 
 
 
